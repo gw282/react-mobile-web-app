@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/username/react-mobile-web-app/static/css/main.e6c13ad2.css",
-    "main.js": "/username/react-mobile-web-app/static/js/main.6d593b4f.js",
-    "static/js/453.e22193bd.chunk.js": "/username/react-mobile-web-app/static/js/453.e22193bd.chunk.js",
-    "index.html": "/username/react-mobile-web-app/index.html",
-    "main.e6c13ad2.css.map": "/username/react-mobile-web-app/static/css/main.e6c13ad2.css.map",
-    "main.6d593b4f.js.map": "/username/react-mobile-web-app/static/js/main.6d593b4f.js.map",
-    "453.e22193bd.chunk.js.map": "/username/react-mobile-web-app/static/js/453.e22193bd.chunk.js.map"
+    "main.css": "/gw282/react-mobile-web-app/static/css/main.e6c13ad2.css",
+    "main.js": "/gw282/react-mobile-web-app/static/js/main.aa86b6c6.js",
+    "static/js/453.e22193bd.chunk.js": "/gw282/react-mobile-web-app/static/js/453.e22193bd.chunk.js",
+    "index.html": "/gw282/react-mobile-web-app/index.html",
+    "main.e6c13ad2.css.map": "/gw282/react-mobile-web-app/static/css/main.e6c13ad2.css.map",
+    "main.aa86b6c6.js.map": "/gw282/react-mobile-web-app/static/js/main.aa86b6c6.js.map",
+    "453.e22193bd.chunk.js.map": "/gw282/react-mobile-web-app/static/js/453.e22193bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.6d593b4f.js"
+    "static/js/main.aa86b6c6.js"
   ]
 }
